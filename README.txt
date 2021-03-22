@@ -20,6 +20,7 @@ Usage
 
   print(r.attributes)
 
+  # Choose one from r.attributes
   isins = r.isins
 
 
