@@ -25,7 +25,7 @@ Usage
 Licence
 =======
 
-Gleif is licenced underGNU GEneral Public Licence v3.0
+Gleif is licenced under GNU GEneral Public Licence v3.0
 
 Authors
 =======
