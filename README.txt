@@ -7,7 +7,8 @@ Official documentation of the GLEIF API is available [here] (https://documenter.
 Usage
 =====
 
-  from gleif import Record, autocomplete, fuzzysearch
+  from gleif.record import Record,
+  from gleif.search import autocomplete, fuzzysearch
 
   search_phrase = "Komercni banka"
 
